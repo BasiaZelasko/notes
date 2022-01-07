@@ -1,0 +1,1 @@
+# notatki z node'a
